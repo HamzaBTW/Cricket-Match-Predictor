@@ -1,4 +1,4 @@
-# 🏏 Cricket Match Predictor (https://testcricpredic.me/)
+# 🏏 Cricket Match Predictor 
 
 <div align="center">
   <img src="testcricpredict_logo.png" alt="Cricket Predictor Logo" width="300"/>
